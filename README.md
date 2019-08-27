@@ -37,5 +37,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 ### My Project
-This is my latest project shot, whcih is forked from ![CC](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/%E6%8F%92%E4%BB%B6.png).
-https://github.com/RioWong/RioWong.github.io/raw/master/ProjectShot/%E6%8F%92%E4%BB%B6.png
+This is my latest project shot.
+ ![Original plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/%E6%8F%92%E4%BB%B6.png).
+ ![Shaders](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/shaders.png)
+ ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/plugins.png)
