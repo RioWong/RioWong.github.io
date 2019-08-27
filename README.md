@@ -4,9 +4,13 @@ For more details see [Rio's GitHub](https://github.com/RioWong).
 
 ### Introduction
 Name:    Rio Wong 
+
 College: UCAS ISO-CEA
+
 Email:   1062256827@qq.com
+
 		 wlvliang@gmail.com
+		 
 Blog:    [Rio's blog](https://blog.csdn.net/sinat_24206709)
 
 
