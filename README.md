@@ -38,3 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### My Project
 This is my latest project shot, whcih is forked from [CC](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/%E6%8F%92%E4%BB%B6.png).
+https://github.com/RioWong/RioWong.github.io/raw/master/ProjectShot/%E6%8F%92%E4%BB%B6.png
