@@ -17,3 +17,4 @@ This is my latest project shot.
  ![Original plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/%E6%8F%92%E4%BB%B6.png).
  ![Shaders](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/shaders.png)
  ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/plugins.png)
+ ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/overall.gif.png)
