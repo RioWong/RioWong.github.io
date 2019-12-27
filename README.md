@@ -18,3 +18,4 @@ This is my latest project shot.
  ![Shaders](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/shaders.png)
  ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/plugins.png)
  ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/overall.gif)
+ ![Plugins](https://github.com/RioWong/RioWong.github.io/blob/master/ProjectShot/cudaNormal.png)
